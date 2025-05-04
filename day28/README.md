@@ -76,4 +76,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License
 
-MIT [cuongw](https://github.com/cuongw)
+MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
