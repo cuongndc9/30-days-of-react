@@ -17,3 +17,8 @@ Example:
 - `http://domain/movie.php?movieID=4512`
 
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Stay curious. Keep learning. Keep growing.
+🦖
+<!-- INSPIRATIONAL_QUOTE_END -->
