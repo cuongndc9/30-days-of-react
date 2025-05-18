@@ -18,7 +18,4 @@ Example:
 
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦄
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nBe a lifelong learner, not a know-it-all.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
