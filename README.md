@@ -127,5 +127,5 @@ _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) fo
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Stay curious. Keep learning. Keep growing.
-🐶
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
