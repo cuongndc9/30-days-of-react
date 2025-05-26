@@ -19,6 +19,6 @@ Example:
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🦖
+Stay curious. Keep learning. Keep growing.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
