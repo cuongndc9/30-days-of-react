@@ -126,6 +126,6 @@ Wrap-up and More Resources
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🐶
+Action beats perfection.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
