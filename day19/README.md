@@ -21,6 +21,6 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/todos-react-redux.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🧑‍💻,
+The best way to predict the future is to create it.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
