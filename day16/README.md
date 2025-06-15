@@ -20,5 +20,5 @@ $ yarn start
 ![](https://img.shields.io/github/license/cuongw/my-repos.svg)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
