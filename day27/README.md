@@ -52,5 +52,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/9d3847b4-d01e-4e62-b18e-12706b955cf3)
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->

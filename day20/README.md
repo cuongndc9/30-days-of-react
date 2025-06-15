@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/cart-react-redux.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

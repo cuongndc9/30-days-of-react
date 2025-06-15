@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/todos-react-redux.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/9d3847b4-d01e-4e62-b18e-12706b955cf3)
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->

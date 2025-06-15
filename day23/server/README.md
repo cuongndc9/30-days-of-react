@@ -19,5 +19,5 @@ Example:
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
