@@ -68,5 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

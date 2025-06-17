@@ -52,5 +52,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->

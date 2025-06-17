@@ -19,5 +19,5 @@ Example:
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->

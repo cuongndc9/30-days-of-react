@@ -126,5 +126,5 @@ Wrap-up and More Resources
 _Thank [fullstackreact.com](https://www.fullstackreact.com/30-days-of-react/) for awesome challenges._
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

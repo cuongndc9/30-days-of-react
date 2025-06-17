@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/todos-react-redux.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->

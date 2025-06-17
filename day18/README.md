@@ -52,5 +52,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->

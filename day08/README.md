@@ -68,5 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->

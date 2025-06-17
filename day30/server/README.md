@@ -20,5 +20,5 @@ Example:
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/github-profile.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->

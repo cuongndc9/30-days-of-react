@@ -19,5 +19,5 @@ Example:
 - `http://domain/sessions.php?cinemaID=-1&filmID=123&startDate=2019-04-14&endDate=2019-04-19`
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

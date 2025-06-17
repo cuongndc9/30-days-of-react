@@ -79,5 +79,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 <!-- INSPIRATIONAL_QUOTE_END -->

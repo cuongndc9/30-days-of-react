@@ -52,5 +52,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
