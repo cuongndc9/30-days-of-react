@@ -20,5 +20,5 @@ $ yarn start
 ![](https://img.shields.io/github/license/cuongw/my-repos.svg)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
