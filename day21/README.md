@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/github-profile.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->

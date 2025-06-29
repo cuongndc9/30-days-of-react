@@ -21,5 +21,5 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/todos-react-redux.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
